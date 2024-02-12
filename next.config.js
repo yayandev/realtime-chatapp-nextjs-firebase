@@ -1,11 +1,11 @@
 module.exports = {
   reactStrictMode: true,
   env: {
-    APP_ID: "1:9311945166:web:c1e3932fe27d228dcbeb9f",
-    MESSAGING_SENDER_ID: "9311945166",
-    STORAGE_BUCKET: "temp-chatapp.appspot.com",
-    PROJECT_ID: "temp-chatapp",
-    AUTH_DOMAIN: "temp-chatapp.firebaseapp.com",
-    API_KEY: "AIzaSyDTKhoWxsh9ZtJBL1a8UwCV9YSa3ChB3eI",
+    APP_ID: "1:930251330772:web:686e2c0e11d9565dc41741",
+    MESSAGING_SENDER_ID: "930251330772",
+    STORAGE_BUCKET: "yanz-beedd.appspot.com",
+    PROJECT_ID: "yanz-beedd",
+    AUTH_DOMAIN: "yanz-beedd.firebaseapp.com",
+    API_KEY: "AIzaSyApZFkxqNPuWLOjwGgNV3ya8qX3bTG-BEA",
   },
 };
